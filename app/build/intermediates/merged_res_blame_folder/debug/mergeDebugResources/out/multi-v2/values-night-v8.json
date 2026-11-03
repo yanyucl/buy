@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.waimai.compare.app-mergeDebugResources-40:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\app\\buy\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "84",
+                        "endOffsets": "135"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "83",
+                        "endOffsets": "134"
+                    }
+                }
+            ]
+        }
+    ]
+}

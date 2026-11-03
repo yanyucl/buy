@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 三根递增的白柱：跨平台比价 -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M33,56 h10 v22 h-10 z M49,42 h10 v36 h-10 z M65,28 h10 v50 h-10 z" />
+    <!-- 折线箭头：价格走势 -->
+    <path
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M33,44 L49,32 L65,20" />
+</vector>

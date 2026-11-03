@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#1565C0</color>
+    <string name="app_name">外卖比价</string>
+    <string name="app_subtitle">京东 · 淘宝 · 美团 一键比价</string>
+    <style name="Theme.WaiMaiCompare" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

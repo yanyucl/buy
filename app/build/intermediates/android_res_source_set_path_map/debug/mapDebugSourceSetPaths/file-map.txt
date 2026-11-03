@@ -1,0 +1,8 @@
+com.waimai.compare.app-pngs-0 D:\app\buy\app\build\generated\res\pngs\debug
+com.waimai.compare.app-updated_navigation_xml-1 D:\app\buy\app\build\generated\updated_navigation_xml\debug
+com.waimai.compare.app-packageDebugResources-2 D:\app\buy\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.waimai.compare.app-packageDebugResources-3 D:\app\buy\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.waimai.compare.app-debug-4 D:\app\buy\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.waimai.compare.app-debug-5 D:\app\buy\app\src\debug\res
+com.waimai.compare.app-main-6 D:\app\buy\app\src\main\res
+gradleHome-0 C:\Users\sun_s\.gradle
